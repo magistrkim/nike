@@ -12,6 +12,8 @@ import {
   bigShoe3,
   customer1,
   customer2,
+  customer3,
+  customer4,
   shoe4,
   shoe5,
   shoe6,
@@ -95,16 +97,30 @@ export const reviews = [
   {
     imgURL: customer1,
     customerName: 'Morich Brown',
-    rating: 4.5,
+    rating: 4.8,
     feedback:
-      'The attention to detail and the quality of the product exceeded my expectations. Highly recommended!',
+      'The attention to detail and the quality of the product exceeded my expectations.',
   },
   {
     imgURL: customer2,
     customerName: 'Lota Mongeskar',
+    rating: 4.9,
+    feedback:
+      "The product not only met but exceeded my expectations. I'll definitely be a customer!",
+  },
+  {
+    imgURL: customer3,
+    customerName: 'Kim Taehyung',
     rating: 4.5,
     feedback:
-      "The product not only met but exceeded my expectations. I'll definitely be a returning customer!",
+      'The coolest Nike ever. I would definitely buy all your new collection. My favorite brand',
+  },
+  {
+    imgURL: customer4,
+    customerName: 'Jeon V',
+    rating: 4.9,
+    feedback:
+      'Nike is the best conception in the world. Awesome, stunning, stylish and comfortable.',
   },
 ];
 
