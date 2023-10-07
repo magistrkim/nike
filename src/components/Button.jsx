@@ -5,7 +5,7 @@ const Button = ({ label, iconURL, backgroundColor, borderColor, textColor, fullW
       ${
         backgroundColor
           ? `${backgroundColor} ${textColor} ${borderColor}`
-          : 'bg-coral-red text-white border-coral-red'
+          : 'pink-gradient text-white border-coral-red'
       } rounded-full ${fullWidth && 'w-full'}`}
     >
       {label}
