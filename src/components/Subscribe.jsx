@@ -16,7 +16,7 @@ const Subscribe = () => {
       gap-5 p-2.5 sm:border sm:border-slate-gray rounded-full
       "
       >
-        <input type="text" placeholder="subscribe" className="input" />
+        <input type="text" placeholder="subscribe@mail.com" className="input" />
         <div className="flex  max-sm:justify-end items-center max-sm:w-full">
           <Button label="Sign up" fullWidth />
         </div>
