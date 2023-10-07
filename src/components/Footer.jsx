@@ -22,7 +22,9 @@ const Footer = () => {
                 key={item.alt}
                 className="flex justify-center items-center w-12 h-12 bg-white rounded-full"
               >
-                <img src={item.src} alt={item.alt} width={24} height={24} />
+                <a href="https://github.com/magistrkim">
+                  <img src={item.src} alt={item.alt} width={24} height={24} />
+                </a>
               </div>
             ))}
           </div>
