@@ -25,13 +25,13 @@ and hassle-free access to these premium designer shoes, providing you with an un
 Whether you're looking to turn heads or enjoy a top-notch ride, our app is your gateway 
 to the world of luxury and convenience in the realm of sport shoes.
 
-1.Stylish and modern design
+<h2>Stylish and modern design</h2>
 ![Снимок экрана (130)](https://github.com/magistrkim/nike/assets/115700340/ecd6e925-39cf-4d92-85f3-acaef65d7cef)
 
-2.Great offers and daily sales
+<h2>Great offers and daily sales</h2>
 ![Снимок экрана (131)](https://github.com/magistrkim/nike/assets/115700340/c360c25b-ef11-4814-b9a9-389aa0f68d7b)
 
-3.Millions of grateful customers all over the world
+<h2>Millions of grateful customers all over the world</h2>
 ![Снимок экрана (132)](https://github.com/magistrkim/nike/assets/115700340/f9070e43-d7da-4dcf-940e-57a5a5c20491)
 
 
