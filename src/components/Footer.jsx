@@ -20,7 +20,7 @@ const Footer = () => {
             {socialMedia.map(item => (
               <div
                 key={item.alt}
-                className="flex justify-center items-center w-12 h-12 bg-white rounded-full hover:bg-pink-400"
+                className="flex justify-center items-center w-12 h-12 bg-white rounded-full hover:bg-slate-gray"
               >
                 <a href="https://github.com/magistrkim">
                   <img src={item.src} alt={item.alt} width={24} height={24} />

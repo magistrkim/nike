@@ -1,6 +1,5 @@
 import Button from './Button';
 import { offer } from '../assets/images';
-import { arrowRight } from '../assets/icons';
 const SpecialOffer = () => {
   return (
     <section
@@ -31,7 +30,7 @@ const SpecialOffer = () => {
           nothing short of exceptional.
         </p>
         <div className="mt-11 flex flex-wrap gap-4">
-          <Button label="View details" iconURL={arrowRight} />
+          <Button label="View details" />
           <Button
             label="Learn more"
             backgroundColor="bg-white"
